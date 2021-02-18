@@ -1,3 +1,11 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+}
+/* 
 .App {
   text-align: center;
 }
@@ -35,4 +43,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
